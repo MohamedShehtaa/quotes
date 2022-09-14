@@ -1,0 +1,2 @@
+(this.webpackJsonpquotes=this.webpackJsonpquotes||[]).push([[6],{51:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return c}));n(0);var s=n(1);function c(){return Object(s.jsx)("div",{className:"centered",children:Object(s.jsx)("p",{children:" Page Not Found"})})}}}]);
+//# sourceMappingURL=6.693e5db5.chunk.js.map
